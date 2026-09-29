@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these method notes, please cite them as below."
+type: dataset
+title: "EVO lighting layout recovery for Radiance: method notes"
+authors:
+  - given-names: "James"
+    family-names: "Augustus"
+repository-code: "https://github.com/JamesAugustus/ctlux-evo"
+version: "1.0"
+license:
+  - MIT
+  - Apache-2.0
+keywords:
+  - DIALux evo
+  - ISO 10303-21
+  - Radiance
+  - lighting simulation
+  - file format analysis
+  - interoperability
