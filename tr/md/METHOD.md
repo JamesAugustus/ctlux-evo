@@ -1,6 +1,6 @@
 # Yöntem
 
-İngilizce asıl metin: [METHOD.md](../METHOD.md). İki metin arasında fark olursa
+İngilizce asıl metin: [METHOD.md](../../md/METHOD.md). İki metin arasında fark olursa
 İngilizce metin geçerlidir.
 
 Gösterim: konumlar metre cinsinden `(x, y, z)` biçimindedir. Eksen vektörleri

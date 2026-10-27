@@ -1,6 +1,6 @@
 # Kanıt kapsamı
 
-İngilizce asıl metin: [PROVENANCE.md](../PROVENANCE.md). İki metin arasında fark
+İngilizce asıl metin: [PROVENANCE.md](../../md/PROVENANCE.md). İki metin arasında fark
 olursa İngilizce metin geçerlidir.
 
 Bu notlar, kaydedilmiş DIALux evo 5.13 proje dosyalarındaki gözlemleri anlatır.

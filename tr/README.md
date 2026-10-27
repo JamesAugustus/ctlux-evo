@@ -40,12 +40,12 @@ burada kaynak dosyaları kaydeden uygulamayı belirtir.
 
 ## Belgeler
 
-- [METHOD.md](METHOD.md): yöntem ve formüller
-- [RELATED_WORK.md](RELATED_WORK.md): `.evo` biçimi üzerine kamuya açık diğer
+- [METHOD.md](md/METHOD.md): yöntem ve formüller
+- [RELATED_WORK.md](md/RELATED_WORK.md): `.evo` biçimi üzerine kamuya açık diğer
   çalışmalar ve bu notların farkı
-- [PROVENANCE.md](PROVENANCE.md): yöntem kapsamı ve kanıt sınırları
+- [PROVENANCE.md](md/PROVENANCE.md): yöntem kapsamı ve kanıt sınırları
 - [LICENSE](../LICENSE): MIT OR Apache-2.0
-- [CITATION.md](CITATION.md): bu notlara atıf bilgisi
+- [CITATION.md](md/CITATION.md): bu notlara atıf bilgisi
 
 ## Çevirici
 
@@ -77,4 +77,4 @@ Her iki seçenek ticari kullanıma ve kapalı ürünlerde dağıtıma izin verir
 
 Her iki seçenek ilgili telif bildirimlerini korur. Reklam atfı, özel bir kullanıcı arayüzü atfı veya akademik atıf zorunluluğu getirmez
 
-Üçüncü taraf alıntıları, kodları ve markaları kendi koşullarını korur ve bu bildirimle yeniden lisanslanmaz. Yalnız özgün içerikte sahip olunan haklar verilir. Fikirler, yöntemler ve dosya biçimi olguları üzerinde bu lisanslarla münhasır telif hakkı kurulmaz. Yalnız bu fikir veya olgularla hazırlanan bağımsız uygulamalarda bilimsel kaynak gösterme gönüllüdür ve [CITATION.md](CITATION.md) içinde rica edilir
+Üçüncü taraf alıntıları, kodları ve markaları kendi koşullarını korur ve bu bildirimle yeniden lisanslanmaz. Yalnız özgün içerikte sahip olunan haklar verilir. Fikirler, yöntemler ve dosya biçimi olguları üzerinde bu lisanslarla münhasır telif hakkı kurulmaz. Yalnız bu fikir veya olgularla hazırlanan bağımsız uygulamalarda bilimsel kaynak gösterme gönüllüdür ve [CITATION.md](md/CITATION.md) içinde rica edilir
